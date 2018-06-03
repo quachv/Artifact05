@@ -1,0 +1,14 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#caption{
+  text-align: center;
+}
+
+
+#previous, #next{
+  text-align: center;
+}
