@@ -9,9 +9,6 @@ img {
 }
 
 #caption{
-  text-align: center;
+	text-align: center;
 }
 
-#previous, #next{
-  text-align: center;
-}
