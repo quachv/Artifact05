@@ -1,5 +1,6 @@
-var myImages =["images/artifact01.PNG", "images/artifact02.PNG","http://www.liveanimalslist.com/mammals/images/dolphin-in-water.jpg","http://i1151.photobucket.com/albums/o632/bowietvc15/Bowietvc15-2/DolphinsWallpaper2.jpg","http://i1151.photobucket.com/albums/o632/bowietvc15/funny%20gifs/animal-art-cute-dolphin-nature-Favimcom-311780.jpg"];
-var captionImages =["Laugh","Love","Lunch","Happiness","Family"];
+var myImages =["images/module01.PNG", "images/artifact01.PNG", "images/module02.PNG","images/artifact02.PNG","images/artifact03.PNG"];
+var captionImages =["Module 1 - This is a sample HTML assignment using basic HTML link images with links","Artifact 1 - This is a sample HTML assignment to create different headings for a resume","Module 2 - This is a sample assignment using HTML to create tables","Artifact 2 - This is a sample assignment using HTML to create tables to reproduce a chessboard","Artifact 3 - This is a sample assignment using HTML to ask for user inputs and then using Java to produce a rhombus"];
+
 var index=0; 
 
 function updateImage(){
